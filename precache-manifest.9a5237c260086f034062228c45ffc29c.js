@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0116d4fdb7b7acc36405db8f7ae069bd",
+    "revision": "14a7dcd9608a8b70514a2654889127e6",
     "url": "/footballmanagementsystem/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/footballmanagementsystem/static/css/2.f93178fb.chunk.css"
   },
   {
-    "revision": "9453cb0719677cc593cf",
+    "revision": "587d2c94c555d6d08721",
     "url": "/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/footballmanagementsystem/static/js/2.5ac7da7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9453cb0719677cc593cf",
-    "url": "/footballmanagementsystem/static/js/main.743cfd4a.chunk.js"
+    "revision": "587d2c94c555d6d08721",
+    "url": "/footballmanagementsystem/static/js/main.11d2bdf7.chunk.js"
   },
   {
     "revision": "172a329f77b75b75ab3b",
