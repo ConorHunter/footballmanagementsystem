@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css",
-    "main.js": "/footballmanagementsystem/static/js/main.de49a633.chunk.js",
-    "main.js.map": "/footballmanagementsystem/static/js/main.de49a633.chunk.js.map",
-    "runtime-main.js": "/footballmanagementsystem/static/js/runtime-main.b982e0ca.js",
-    "runtime-main.js.map": "/footballmanagementsystem/static/js/runtime-main.b982e0ca.js.map",
-    "static/css/2.f93178fb.chunk.css": "/footballmanagementsystem/static/css/2.f93178fb.chunk.css",
-    "static/js/2.864552ea.chunk.js": "/footballmanagementsystem/static/js/2.864552ea.chunk.js",
-    "static/js/2.864552ea.chunk.js.map": "/footballmanagementsystem/static/js/2.864552ea.chunk.js.map",
-    "index.html": "/footballmanagementsystem/index.html",
-    "precache-manifest.87b92e4e2d59fbbae33dadf12d22210f.js": "/footballmanagementsystem/precache-manifest.87b92e4e2d59fbbae33dadf12d22210f.js",
-    "service-worker.js": "/footballmanagementsystem/service-worker.js",
-    "static/css/2.f93178fb.chunk.css.map": "/footballmanagementsystem/static/css/2.f93178fb.chunk.css.map",
-    "static/css/main.32ecc9b5.chunk.css.map": "/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css.map",
-    "static/js/2.864552ea.chunk.js.LICENSE.txt": "/footballmanagementsystem/static/js/2.864552ea.chunk.js.LICENSE.txt"
+    "main.css": "/http//conorhunter.github.io/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css",
+    "main.js": "/http//conorhunter.github.io/footballmanagementsystem/static/js/main.4c1ff0f5.chunk.js",
+    "main.js.map": "/http//conorhunter.github.io/footballmanagementsystem/static/js/main.4c1ff0f5.chunk.js.map",
+    "runtime-main.js": "/http//conorhunter.github.io/footballmanagementsystem/static/js/runtime-main.fc2e6d61.js",
+    "runtime-main.js.map": "/http//conorhunter.github.io/footballmanagementsystem/static/js/runtime-main.fc2e6d61.js.map",
+    "static/css/2.f93178fb.chunk.css": "/http//conorhunter.github.io/footballmanagementsystem/static/css/2.f93178fb.chunk.css",
+    "static/js/2.fa29b2a8.chunk.js": "/http//conorhunter.github.io/footballmanagementsystem/static/js/2.fa29b2a8.chunk.js",
+    "static/js/2.fa29b2a8.chunk.js.map": "/http//conorhunter.github.io/footballmanagementsystem/static/js/2.fa29b2a8.chunk.js.map",
+    "index.html": "/http//conorhunter.github.io/footballmanagementsystem/index.html",
+    "precache-manifest.d6f5e93c32b4bcb6667276e287335d63.js": "/http//conorhunter.github.io/footballmanagementsystem/precache-manifest.d6f5e93c32b4bcb6667276e287335d63.js",
+    "service-worker.js": "/http//conorhunter.github.io/footballmanagementsystem/service-worker.js",
+    "static/css/2.f93178fb.chunk.css.map": "/http//conorhunter.github.io/footballmanagementsystem/static/css/2.f93178fb.chunk.css.map",
+    "static/css/main.32ecc9b5.chunk.css.map": "/http//conorhunter.github.io/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css.map",
+    "static/js/2.fa29b2a8.chunk.js.LICENSE.txt": "/http//conorhunter.github.io/footballmanagementsystem/static/js/2.fa29b2a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b982e0ca.js",
+    "static/js/runtime-main.fc2e6d61.js",
     "static/css/2.f93178fb.chunk.css",
-    "static/js/2.864552ea.chunk.js",
+    "static/js/2.fa29b2a8.chunk.js",
     "static/css/main.32ecc9b5.chunk.css",
-    "static/js/main.de49a633.chunk.js"
+    "static/js/main.4c1ff0f5.chunk.js"
   ]
 }
