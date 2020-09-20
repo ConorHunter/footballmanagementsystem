@@ -1,0 +1,393 @@
+.app {
+  font-size: 10px;
+}
+body {
+  background: rgb(3, 170, 45) !important;
+  min-height: 100vh;
+  display: flex;
+  font-weight: 400;
+}
+
+h1,h2,h3,h4,h5,h6,label {
+  font-weight: 500;
+  font-size: 15px;
+}
+
+#tacticstitle {
+  position: fixed;
+  top: 15%;
+  left: 588px;
+}
+
+body, html, .App, #root, .wrapper {
+  width: 100%;
+  height: 100%;
+  font-size: 100;
+}
+
+.navbar-light {
+  background-color: #fdf7f7;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  height: 58px;
+}
+
+.boxwhite{
+  width:875px;
+  height:400px;
+  color: white;
+}
+
+.player1 img {
+  position: fixed;
+  top: -185px;
+  width: 50px;
+  height: 30px;
+  left: -10px;
+}
+
+#player1text {
+  position: fixed;
+  top: -155px;
+  width: 51px;
+  left: -8px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player2 img {
+  position: fixed;
+  top: -301px;
+  width: 50px;
+  height: 30px;
+  left: 110px;
+}
+
+#player2text {
+  position: fixed;
+  top: -271px;
+  width: 51px;
+  left: 110px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player3 img {
+  position: fixed;
+  top: -241px;
+  width: 50px;
+  height: 30px;
+  left: 100px;
+}
+
+#player3text {
+  position: fixed;
+  top: -211px;
+  width: 51px;
+  left: 100px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player4 img {
+  position: fixed;
+  top: -161px;
+  width: 50px;
+  height: 30px;
+  left: 100px;
+}
+
+#player4text {
+  position: fixed;
+  top: -131px;
+  width: 51px;
+  left: 100px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player5 img {
+  position: fixed;
+  top: -81px;
+  width: 50px;
+  height: 30px;
+  left: 110px;
+}
+
+#player5text {
+  position: fixed;
+  top: -51px;
+  width: 51px;
+  left: 110px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player6 img {
+  position: fixed;
+  top: -301px;
+  width: 50px;
+  height: 30px;
+  left: 260px;
+}
+
+#player6text {
+  position: fixed;
+  top: -271px;
+  width: 51px;
+  left: 260px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player7 img {
+  position: fixed;
+  top: -241px;
+  width: 50px;
+  height: 30px;
+  left: 250px;
+}
+
+#player7text {
+  position: fixed;
+  top: -211px;
+  width: 51px;
+  left: 250px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player8 img {
+  position: fixed;
+  top: -161px;
+  width: 50px;
+  height: 30px;
+  left: 250px;
+}
+
+#player8text {
+  position: fixed;
+  top: -131px;
+  width: 51px;
+  left: 250px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player9 img {
+  position: fixed;
+  top: -81px;
+  width: 50px;
+  height: 30px;
+  left: 260px;
+}
+
+#player9text {
+  position: fixed;
+  top: -51px;
+  width: 51px;
+  left: 260px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player10 img {
+  position: fixed;
+  top: -241px;
+  width: 50px;
+  height: 30px;
+  left: 386px;
+}
+
+#player10text {
+  position: fixed;
+  top: -211px;
+  width: 51px;
+  left: 386px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.player11 img {
+  position: fixed;
+  top: -161px;
+  width: 50px;
+  height: 30px;
+  left: 386px;
+}
+
+#player11text {
+  position: fixed;
+  top: -131px;
+  width: 51px;
+  left: 386px;
+  font-size: 10px;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  color: white;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.inner {
+  width:980px;
+  height:480px;
+  margin: auto;
+  padding: 40px 55px 45px 55px;
+  border-radius: 15px;
+  background-color: white;
+}
+
+.wrapper .form-control {
+  height:38px;
+}
+
+.wrapper .form-control:focus {
+  border-color: rgb(2, 179, 46);
+  box-shadow: none;
+}
+
+.wrapper h3 {
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  padding-bottom: 20px;
+}
+
+.nav {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 44px;
+  background-color: #e7e4e4;
+  top: 93%;
+  left: 0%;
+}
+
+.nav__link {
+  display: flex;
+  border: 1px solid #424242;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  min-width: 50px;
+  font-size: 13px;
+  color: #424242;
+}
+
+.nav__icon {
+  font-size: 18px;
+}
+
+.form-team {
+  position: fixed;
+  left: 520px;
+  top: 22.6%;
+  width: 240px;
+}
+
+#teaminstructions {
+  position: fixed;
+  height: 315px;
+  left: 814px;
+  top: 28.5%;
+  width: 320px;
+}
+
+#teaminstructionslabel {
+  position: fixed;
+  left: 914px;
+  top: 23.5%;
+}
+
+#kitcolour {
+  position:fixed;
+  left: 325px;
+  top: 23%;
+}
+
+#kitcolourlabel {
+  position:fixed;
+  left: 250px;
+  top: 23%;
+}
+
+#teamnamelabel {
+  position:fixed;
+  left: 430px;
+  top: 23%;
+}
+
+#usernamereg {
+  position: fixed;
+  top: 50%;
+  left: 495px;
+}
+
+#email {
+  position: fixed;
+  top: 26%;
+  left: 495px;
+}
+
+#passwordreg {
+  position: fixed;
+  top: 38%;
+  left: 495px;
+}
+
+#registerbutton {
+  position: fixed;
+  left: 496px;
+  width: 402px;
+  top: 72%;
+  border: 1px solid black;
+}
+
+#member {
+  position: fixed;
+  top: 78%;
+  left: 770px;
+  color: green;
+}
+
+#footballrole {
+  position: fixed;
+  top: 64%;
+  left: 495px;
+}

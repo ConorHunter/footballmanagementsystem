@@ -1,0 +1,129 @@
+.logo {
+  height: 60px;
+  width: 110px;
+}
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+@media screen and (min-width:320px) and (max-width:640px) {}
+
+
+.logout {
+  background-color:rgb(3, 150, 3);
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+#title {
+  text-align: center;
+}
+
+
+#football {
+  text-align: center;
+  border: 1px solid black;
+  width: 870px;
+}
+
+#football td, #football th {
+  border: 1px solid black;
+  padding: 0px;
+  background-color: white;
+}
+
+#football tr:hover {background-color: #ddd;}
+
+#football th {
+  padding-top: 0.2px;
+  padding-bottom: 0.2px;
+  height: 20px;
+  text-align: center;
+  background-color: rgb(3, 170, 45);
+  color: white;
+  border: 1.5px solid black;
+}
+
+#footballpitch {
+  height: 320px;
+  width: 570px;
+  position: fixed;
+  left: 16%;
+  top: 28%;
+}
+
+.form-control {
+  width: 400px;
+  border: 1px solid black;
+}
+
+.react-draggable,
+.cursor { 
+  cursor: move;
+}
+.no-cursor {
+  cursor: auto;
+}
+
+.react-draggable strong {
+  background: #ddd;
+  border: 1px solid #999;
+  border-radius: 3px;
+  display: block;
+  margin-bottom: 10px;
+  padding: 3px 5px;
+  text-align: center;
+}
+
+.display {
+  position: fixed;
+  top: 76%;
+  left: 668px;
+  
+}
+
+.logout {
+  position: fixed;
+  top: 2.2%;
+  left: 1200px;
+  padding: 4px 5px 4px 5px;
+  border-radius: 15px;
+}
+
+#loginbutton{
+  width: 400px;
+  position: fixed;
+  top: 60%;
+  left: 500px;
+  border: 1px solid black;
+}
+
+#username {
+  width: 100px;
+  position: fixed;
+  top: 31%;
+  left: 500px;
+}
+
+#password {
+  width: 100px;
+  position: fixed;
+  top: 44.5%;
+  left: 500px;
+}
+
+#createaccount {
+  position: fixed;
+  top: 66%;
+  left: 780px;
+  color: green;
+}
