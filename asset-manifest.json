@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css",
-    "main.js": "/footballmanagementsystem/static/js/main.d44e08c8.chunk.js",
-    "main.js.map": "/footballmanagementsystem/static/js/main.d44e08c8.chunk.js.map",
+    "main.js": "/footballmanagementsystem/static/js/main.9a1f4d83.chunk.js",
+    "main.js.map": "/footballmanagementsystem/static/js/main.9a1f4d83.chunk.js.map",
     "runtime-main.js": "/footballmanagementsystem/static/js/runtime-main.b982e0ca.js",
     "runtime-main.js.map": "/footballmanagementsystem/static/js/runtime-main.b982e0ca.js.map",
     "static/css/2.f93178fb.chunk.css": "/footballmanagementsystem/static/css/2.f93178fb.chunk.css",
     "static/js/2.fa29b2a8.chunk.js": "/footballmanagementsystem/static/js/2.fa29b2a8.chunk.js",
     "static/js/2.fa29b2a8.chunk.js.map": "/footballmanagementsystem/static/js/2.fa29b2a8.chunk.js.map",
     "index.html": "/footballmanagementsystem/index.html",
-    "precache-manifest.6605fba3bcbeb5d23f4129348f16cdc0.js": "/footballmanagementsystem/precache-manifest.6605fba3bcbeb5d23f4129348f16cdc0.js",
+    "precache-manifest.d86c17d57307a8b244f4865c83dc0017.js": "/footballmanagementsystem/precache-manifest.d86c17d57307a8b244f4865c83dc0017.js",
     "service-worker.js": "/footballmanagementsystem/service-worker.js",
     "static/css/2.f93178fb.chunk.css.map": "/footballmanagementsystem/static/css/2.f93178fb.chunk.css.map",
     "static/css/main.32ecc9b5.chunk.css.map": "/footballmanagementsystem/static/css/main.32ecc9b5.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f93178fb.chunk.css",
     "static/js/2.fa29b2a8.chunk.js",
     "static/css/main.32ecc9b5.chunk.css",
-    "static/js/main.d44e08c8.chunk.js"
+    "static/js/main.9a1f4d83.chunk.js"
   ]
 }
